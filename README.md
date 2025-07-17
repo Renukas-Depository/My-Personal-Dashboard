@@ -17,6 +17,6 @@ My Personal Dashboard 🚀💻
 
 *Check out my repository 📂*
 
-- [Your GitHub Repository Link] 🌐
+- [https://github.com/Renukas-Depository/My-Personal-Dashboard.git] 🌐
 
 I hope this helps you! 
