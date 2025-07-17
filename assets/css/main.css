@@ -1,0 +1,129 @@
+/* Header Styling Information */
+
+header
+{
+    margin: 12px 0px 0px 0px;
+}
+
+span
+{
+    background-color: black;
+    color: aquamarine;
+}
+
+
+/* Main Styling Information */
+
+tr
+{
+    margin: 0px 0px 0px 0px;
+}
+
+body
+{
+    background-image: url(img/blue.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+*
+{
+    padding: 0;
+    margin: 0px 0px 0px 0px;
+}
+
+.lang
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/lang.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.endsem
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/exam2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.projects
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/projects.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.reads
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/books.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 35px 130px 0px 100px;
+    padding: 7px 0px 0px 0px; 
+    border-radius: 10px;
+}
+
+.results
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/results.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 35px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.skills
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/skills.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 35px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+/* Footer Styling Information */
+
+.copyright
+{
+    text-align: center;
+    color: white;
+    margin: 20px 0px 0px 0px;
+    background-attachment: fixed;
+}
+
