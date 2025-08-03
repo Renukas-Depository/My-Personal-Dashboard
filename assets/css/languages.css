@@ -1,0 +1,77 @@
+/* Header Styling Information */
+
+header
+{
+    margin: 12px 0px 0px 0px;
+}
+
+span
+{
+    background-color: black;
+    color: aquamarine;
+}
+
+
+/* Main Styling Information */
+
+body
+{
+    background-image: url(img/blue.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.html
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/lang.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.css
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/lang.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.java
+{
+    background-color: black;
+    color: aquamarine;
+    width: 280px;
+    height: 280px;
+    background-image: url(img/java.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px 130px 0px 100px;
+    padding: 7px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+
+/* Footer Styling Information */
+
+.copyright
+{
+    text-align: center;
+    color: white;
+    margin: 20px 0px 0px 0px;
+    background-attachment: fixed;
+}
+
